@@ -12,6 +12,7 @@
 - SQL
 - Microsoft SQL Server
 - C
+- Astro
 - Assembly 8086
 - .NET 10
 
