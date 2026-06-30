@@ -44,8 +44,9 @@ Landing page premium para una agencia digital ficticia, construida con **Astro +
 [→ Ver repositorio](https://github.com/sama306/ForgeStudio)
 
 ### 🔗 Consolink
-Proyecto en desarrollo — próximamente.  
-*Aún no publicado.*
+Sistema de gestión de consorcios con múltiples roles (ADMIN, OWNER, TENANT, MANAGER), autenticación JWT, dashboard con estadísticas, gestión de expensas, tickets de reparación, avisos, calendario de eventos y documentos.  
+`TypeScript` · `Astro` · `React` · `TailwindCSS` · `PostgreSQL`  
+[→ Ver repositorio](https://github.com/sama306/Consolink)
 
 ### 🎮 PatternGame
 Aplicación interactiva en **Python** basada en reconocimiento y repetición de secuencias y patrones.  
@@ -54,9 +55,6 @@ Aplicación interactiva en **Python** basada en reconocimiento y repetición de 
 ### 🧠 GuessCharacter
 Sistema estilo *"Akinator"* en **Assembly 8086** con librerías externas, validación de entradas y lectura de archivos.  
 [→ Ver repositorio](https://github.com/sama306/GuessCharacter)
-
-### 🗄️ Base de Datos SQL Server
-Desarrollo y administración de bases de datos relacionales con consultas SQL y SQL Server.
 
 ---
 
@@ -75,10 +73,6 @@ Desarrollo y administración de bases de datos relacionales con consultas SQL y 
 ---
 
 ## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sama306&show_icons=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sama306&layout=compact&theme=transparent&title_color=58A6FF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sama306&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
