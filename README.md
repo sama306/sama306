@@ -72,12 +72,6 @@ Sistema estilo *"Akinator"* en **Assembly 8086** con librerías externas, valida
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sama306&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
----
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dante-valent%C3%ADn-samacoits-2880b8261/)
