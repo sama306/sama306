@@ -52,6 +52,10 @@ Sistema de gestión de consorcios con múltiples roles (ADMIN, OWNER, TENANT, MA
 Aplicación interactiva en **Python** basada en reconocimiento y repetición de secuencias y patrones.  
 [→ Ver repositorio](https://github.com/sama306/PatternGame)
 
+### 🧠 GuessCharacter
+Sistema estilo *"Akinator"* en **Assembly 8086** con librerías externas, validación de entradas y lectura de archivos.  
+[→ Ver repositorio](https://github.com/sama306/GuessCharacter)
+
 ---
 
 ## 🎨 Edición y Diseño
