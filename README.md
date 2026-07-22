@@ -33,26 +33,31 @@
 
 ## 📌 Proyectos Destacados
 
-### 🔫 007-Sama
+### 📍 GurkCRM
+CRM SaaS moderno para la gestión de clientes, oportunidades comerciales, tareas y equipos — pensado para agencias digitales, estudios jurídicos, consultoras y equipos comerciales que necesitan centralizar todo su proceso de ventas en un solo lugar.
+`TypeScript` · `Astro` · `React` · `TailwindCSS` · `SQL Server` · `Express` · `Prisma`
+[→ Ver repositorio](https://github.com/sama306/GurkCRM)
+
+### 📍 007-Sama
 Tienda de videojuegos completa con **Astro 6**, autenticación, pagos con Stripe, wishlist, módulo de noticias y CI/CD.  
 `TypeScript` · `Astro` · `Stripe`  
 [→ Ver repositorio](https://github.com/sama306/007-Sama)
 
-### 🎨 ForgeStudio
+### 📍 ForgeStudio
 Landing page premium para una agencia digital ficticia, construida con **Astro + Tailwind + GSAP**.  
 `Astro` · `TailwindCSS` · `GSAP`  
 [→ Ver repositorio](https://github.com/sama306/ForgeStudio)
 
-### 🔗 Consolink
+### 📍 Consolink
 Sistema de gestión de consorcios con múltiples roles (ADMIN, OWNER, TENANT, MANAGER), autenticación JWT, dashboard con estadísticas, gestión de expensas, tickets de reparación, avisos, calendario de eventos y documentos.  
 `TypeScript` · `Astro` · `React` · `TailwindCSS` · `PostgreSQL`  
 [→ Ver repositorio](https://github.com/sama306/Consolink)
 
-### 🎮 PatternGame
+### 📍 PatternGame
 Aplicación interactiva en **Python** basada en reconocimiento y repetición de secuencias y patrones.  
 [→ Ver repositorio](https://github.com/sama306/PatternGame)
 
-### 🧠 GuessCharacter
+### 📍 GuessCharacter
 Sistema estilo *"Akinator"* en **Assembly 8086** con librerías externas, validación de entradas y lectura de archivos.  
 [→ Ver repositorio](https://github.com/sama306/GuessCharacter)
 
