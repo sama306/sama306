@@ -34,7 +34,7 @@
 ## 📌 Proyectos Destacados
 
 ### 📍 GurkCRM
-CRM SaaS moderno para la gestión de clientes, oportunidades comerciales, tareas y equipos — pensado para agencias digitales, estudios jurídicos, consultoras y equipos comerciales que necesitan centralizar todo su proceso de ventas en un solo lugar.
+CRM SaaS moderno para la gestión de clientes, oportunidades comerciales, tareas y equipos — pensado para agencias digitales, estudios jurídicos, consultoras y equipos comerciales que necesitan centralizar todo su proceso de ventas en un solo lugar.   
 `TypeScript` · `Astro` · `React` · `TailwindCSS` · `SQL Server` · `Express` · `Prisma`  
 [→ Ver repositorio](https://github.com/sama306/GurkCRM)
 
