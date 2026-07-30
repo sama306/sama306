@@ -44,7 +44,7 @@ Tienda de videojuegos completa con **Astro 6**, autenticación, pagos con Stripe
 [→ Ver repositorio](https://github.com/sama306/007-Sama)
 
 ### 📍 ForgeStudio
-Landing page premium para una agencia digital ficticia.
+Landing page premium para una agencia digital ficticia.   
 `Astro` · `TailwindCSS` · `GSAP`  
 [→ Ver repositorio](https://github.com/sama306/ForgeStudio)
 
