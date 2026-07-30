@@ -48,6 +48,11 @@ Landing page premium para una agencia digital ficticia.
 `Astro` · `TailwindCSS` · `GSAP`  
 [→ Ver repositorio](https://github.com/sama306/ForgeStudio)
 
+### 📍 Kaido
+Landing page premium diseñada para transmitir la experiencia de una cafetería de especialidad de inspiración japonesa: minimalismo cálido, ritmo lento y atención al detalle en cada interacción.   
+`Astro` · `React` · `TypeScript` · `TailwindCSS` · `GSAP`   
+[→ Ver repositorio](https://github.com/sama306/Kaido)   
+
 ### 📍 Consolink
 Sistema de gestión de consorcios con múltiples roles (ADMIN, OWNER, TENANT, MANAGER), autenticación JWT, dashboard con estadísticas, gestión de expensas, tickets de reparación, avisos, calendario de eventos y documentos.  
 `TypeScript` · `Astro` · `React` · `TailwindCSS` · `PostgreSQL`  
