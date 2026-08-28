@@ -44,7 +44,7 @@ Tienda de videojuegos completa con **Astro 6**, autenticación, pagos con Stripe
 [→ Ver repositorio](https://github.com/sama306/007-Sama)
 
 ### 📍 DulceyPunto
-... 
+Landing page para una tienda de articulos dulces  
 `TypeScript` · `Astro` · `Stripe`  
 [→ Ver repositorio](https://github.com/sama306/DulceyPunto)
 
