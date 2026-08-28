@@ -43,6 +43,11 @@ Tienda de videojuegos completa con **Astro 6**, autenticación, pagos con Stripe
 `TypeScript` · `Astro` · `Stripe`  
 [→ Ver repositorio](https://github.com/sama306/007-Sama)
 
+### 📍 DulceyPunto
+... 
+`TypeScript` · `Astro` · `Stripe`  
+[→ Ver repositorio](https://github.com/sama306/DulceyPunto)
+
 ### 📍 ForgeStudio
 Landing page premium para una agencia digital ficticia.   
 `Astro` · `TailwindCSS` · `GSAP`  
