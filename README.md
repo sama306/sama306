@@ -73,7 +73,6 @@ Sistema estilo *"Akinator"* en **Assembly 8086** con librerías externas, valida
 [![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-8A2BE2?style=for-the-badge&logo=vegas&logoColor=white)](https://www.vegascreativesoftware.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 
 ## 🧰 Herramientas
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
