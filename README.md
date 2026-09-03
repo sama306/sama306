@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Estudiante+de+programaci%C3%B3n;Desarrollador+de+software;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 
-🎓 Estudiante de la **Tecnicatura en Programación** en UNSAM.  
+🎓 Estudiante de **Tecnicatura en Programación** en UNSAM.  
 💻 Enfocado en desarrollo de software, bases de datos y construcción de proyectos modernos con buenas prácticas.
 
 ---
