@@ -63,10 +63,6 @@ Sistema de gestión de consorcios con múltiples roles (ADMIN, OWNER, TENANT, MA
 `TypeScript` · `Astro` · `React` · `TailwindCSS` · `PostgreSQL`  
 [→ Ver repositorio](https://github.com/sama306/Consolink)
 
-### 📍 GuessCharacter
-Sistema estilo *"Akinator"* en **Assembly 8086** con librerías externas, validación de entradas y lectura de archivos.  
-[→ Ver repositorio](https://github.com/sama306/GuessCharacter)
-
 ---
 
 ## 🎨 Edición y Diseño
